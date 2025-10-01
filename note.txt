@@ -2,3 +2,7 @@ hello world
 taches du jour : 
 -maitriser les commandes Git 
 -configurer le depot distant 
+
+ SECTION PROJETS FUTURS
+- Approfondir la maîtrise de Git
+- Explorer les workflows avancés- Explorer les workflows avancés
