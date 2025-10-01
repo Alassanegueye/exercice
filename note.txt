@@ -1,1 +1,2 @@
 hello wordl 
+taches du jour: -maitriser les commandes Git -configurer le depot distant 
