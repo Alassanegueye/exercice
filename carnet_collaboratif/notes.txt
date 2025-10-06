@@ -1,0 +1,1 @@
+carnet collaboratif alice et bob -taches alice -configurer l'environnement de developpement 
